@@ -1,2 +1,4 @@
 ignoreConfig.py
 ignoreConfig.py
+*.json
+ignoreDenemeler.py
